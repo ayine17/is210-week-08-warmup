@@ -19,6 +19,7 @@ def lexicographics(to_analyze):
         >>> task_03.lexicographics('''Don't stop believing,
                                     Hold on to that feeling.''')
         (5, 3, Decimal(4.0))
+
         >>> import task_03
         >>> import data
         >>> task_03.lexicographics(data.SHAKESPEARE)

@@ -12,8 +12,8 @@ def fibonacci(maxint):
     examples:
         >>> task_01.fibonacci(10)
         [0, 1, 1, 2, 3, 5, 8]
-
     """
+    
     fibona = []
     counter, fab = 0, 1
     while counter < maxint:
