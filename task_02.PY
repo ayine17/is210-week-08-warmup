@@ -20,9 +20,8 @@ def bool_to_str(bval):
         >>> import task_02
         >>> task 02.bool_to_str('')
         'No
-        
-    """
 
+    """
     if bval:
         ans = 'Yes'
     else:
